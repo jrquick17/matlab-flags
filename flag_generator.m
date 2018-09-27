@@ -1,4 +1,4 @@
-% Script flags
+% Script flag_generator
 
 clc
 
