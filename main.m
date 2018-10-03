@@ -85,5 +85,13 @@ flags(:,:,9)  = [ blue   yellow red    blue   yellow red    blue   yellow red  ]
  
 DrawTripleStripedFlags(flags, labels, 9, 8, 0);
 
+labels{1}     = {'Bangladesh'};
+flags         = [ green red ];
+
+labels{2}     = {'Japan'};
+flags(:,:,2)  = [ white red ];
+
+DrawDotFlags(flags, labels, 2, -8, 0);
+
 hold off
 shg
