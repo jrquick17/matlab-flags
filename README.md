@@ -1,8 +1,10 @@
-<img src="https://raw.githubusercontent.com/jrquick17/matlab-flags/master/images/figure.png" width="100%"/>
-
-## Description
+## About
 
 This project is for using MatLab to generate various country flags. It was originally assigned as a project for MA 360 Mathematical Programming at The University of Alabama at Birmingham.
+
+* Visit [my website](https://jrquick.com) for me cool stuff!
+
+<img src="https://raw.githubusercontent.com/jrquick17/matlab-flags/master/images/figure.png" width="100%"/>
 
 ## License
 
